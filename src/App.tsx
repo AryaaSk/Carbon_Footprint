@@ -4,6 +4,7 @@ import Visualization from './Visualisation/visualization';
 import Phone from './Phone/phone';
 
 function App() {
+
   return (
     <div className='main'>
       <Visualization />
